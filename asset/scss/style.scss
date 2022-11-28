@@ -1,0 +1,14 @@
+article.cartouche {
+    position: relative;
+    p {
+	width: 8rem;
+	z-index: 10;
+	position: relative;
+	left: 0;
+	top: 0;
+    }
+    div.svg {
+	position: absolute;
+	z-index: -1;
+    }
+}

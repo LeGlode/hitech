@@ -170,13 +170,40 @@ Mon Panier
 AOC 23.8&Prime; LED &ndash; 24B1XHS
 
 # Étiquettes
-1920 x 1080 pixels
-7 ms
-Format large 16/9
-Dalle IPS
-HDMI
-VGA
-Noir
+<article class="cartouche">
+<div class="panneau"></div>
+<p>1920 x 1080 pixels</p>
+</article>
+
+<article class="cartouche">
+<div class="panneau"></div>
+<p>7 ms</p>
+</article>
+
+<article class="cartouche">
+<div class="panneau"></div>
+<p>Format large 16/9</p>
+</article>
+
+<article class="cartouche">
+<div class="panneau"></div>
+<p>Dalle IPS</p>
+</article>
+
+<article class="cartouche">
+<div class="panneau"></div>
+<p>HDMI</p>
+</article>
+
+<article class="cartouche">
+<div class="panneau"></div>
+<p>VGA</p>
+</article>
+
+<article class="cartouche">
+<div class="panneau"></div>
+<p>Noir</p>
+</article>
 
 # Prix
 109€94
