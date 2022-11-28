@@ -1,6 +1,8 @@
+<ul>
 Options d’affichage/accessibilité
 Thème sombre contrasté clair
 Interlignage simple augmenté
+</ul>
 
 HiTech.NET
 Tout le matériel High-Tech
@@ -255,34 +257,60 @@ dont éco-participation 1€70
 </ul>
 
 ## Ergonomie
-- Pivot:	Non
-- Pied réglable en hauteur:	Non
-- Pied amovible:	Oui
-- Fixation VESA:	N/A
-- Angle inclinaison vers l’arrière (haut):	21,5 Degré(s)
-- Angle inclinaison vers l’avant (bas):	3,5 Deg
+<ul>
+<li><span>Pivot</span> 	Non</li>
+<li><span>Pied réglable en hauteur</span> 	Non</li>
+<li><span>Pied amovible</span> 	Oui</li>
+<li><span>Fixation VESA</span> 	N/A</li>
+<li><span>Angle inclinaison vers l’arrière (haut)</span> 	21,5 Degré(s)</li>
+<li><span>Angle inclinaison vers l’avant (bas)</span> 	3,5 Deg</li>
+</ul>
 
 ## Connectique
-- Entrées vidéo:	1 X HDMI Femelle
-- 1 X VGA (D-sub 15 Femelle)
-- Entrée audio:	Aucun(e)
-- Sorties audio:	1 X Line OUT (Jack 3,5 mm Femelle)
+<ul>
+<li><span>Entrées vidéo</span> 	1 X HDMI Femelle, 1 X VGA (D-sub 15 Femelle)</li>
+<li><span>Entrée audio</span> 	Aucun(e)</li>
+<li><span>Sorties audio</span> 	1 X Line OUT (Jack 3,5 mm Femelle)</li>
+</ul>
 
 ## Multimédia
-- H.P. Intégrés:	Non
-- Webcam:	Non
-- Tuner TV:	Non
+<ul>
+<li><span>H.P. Intégrés</span> 	Non</li>
+<li><span>Webcam</span> 	Non</li>
+<li><span>Tuner TV</span> 	Non</li>
+</ul>
 
 ## Caractéristiques physiques
-- Couleur:	Noir
-- Largeur:	540,1 mm
-- Hauteur:	417,4 mm
-- Profondeur:	186,8 mm
-- Poids:	2,48 kg
-- Pack multi-écrans:	Non
+<ul>
+<li><span>Couleur</span> 	Noir</li>
+<li><span>Largeur</span> 	540,1 mm</li>
+<li><span>Hauteur</span> 	417,4 mm</li>
+<li><span>Profondeur</span> 	186,8 mm</li>
+<li><span>Poids</span> 	2,48 kg</li>
+<li><span>Pack multi-écrans</span> 	Non</li>
+</ul>
 
 ## Alimentation
-- Consommation:	25 W
-- Consommation en veille:	0,5 W
-- Alimentation interne:	Non
+<ul>
+<li><span>Consommation</span> 	25 W</li>
+<li><span>Consommation en veille</span> 	0,5 W</li>
+<li><span>Alimentation interne</span> 	Non</li>
+</ul>
 
+
+Moyens de paiement
+
+Sur les réseaux sociaux
+
+
+À propos
+
+Qui sommes-nous ?
+Nos services
+Contactez-nous
+
+À propos
+Plan du site
+Foire Aux Questions
+Conditions générales de vente
+Informations légales
