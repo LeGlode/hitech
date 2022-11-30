@@ -1,3 +1,122 @@
+$taille: 3rem;
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+
+
+.logo, .iconeCompte, .iconePanier, .iconeOrdinateur, .iconePeripheriques, .iconeTelephones, .iconeConnecte, .facebook, .instagram, .linkedin, .twitter, .iconeMaestro, .iconeMastercard, .iconeCarteBleue, .iconeVisa, .iconeVirement {
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    border: 1px solid transparent;
+}
+
+.logo {
+    background-image: url(../img/logo.svg);
+    height: $taille;
+    width: $taille;
+}
+
+.iconeCompte {
+    background-image: url(../img/compte.svg);
+}
+
+.iconePanier {
+    background-image: url(../img/panier.svg);
+}
+
+.iconeOrdinateur {
+    background-image: url(../img/ordinateur.svg);
+}
+
+.iconePeripheriques {
+    background-image: url(../img/peripherique.svg);
+}
+
+.iconeTelephones {
+    background-image: url(../img/telephone.svg);
+}
+
+.iconeConnecte {
+    background-image: url(../img/objetConnecte.svg);
+}
+
+.facebook {
+    background-image: url(../img/facebook.svg);
+    height: $taille;
+    width: $taille;
+
+}
+
+.instagram {
+    background-image: url(../img/instagram.svg);
+    height: $taille;
+    width: $taille;
+
+}
+
+.linkedin {
+    background-image: url(../img/linkedin.svg);
+    height: $taille;
+    width: $taille;
+
+}
+
+.twitter {
+    background-image: url(../img/twitter.svg);
+    height: $taille;
+    width: $taille;
+
+}
+
+.iconeMaestro {
+    background-image: url(../img/maestro.svg);
+    height: 3rem;
+    width: 8rem;
+
+}
+
+
+.iconeMastercard {
+    background-image: url(../img/mastercard.svg);
+    height: 3rem;
+    width: 8rem;
+}
+
+.iconeCarteBleue {
+    background-image: url(../img/carteBleue.svg);
+    height: 3rem;
+    width: 3rem;
+}
+
+.iconeVisa {
+    background-image: url(../img/visa.svg);
+    height: 3rem;
+    width: 3rem;
+}
+
+.iconeVirement {
+    background-image: url(../img/virement.svg);
+    height: $taille;
+    width: $taille;
+}
+
+
+
+
+
 article.cartouche {
     position: relative;
     p {
